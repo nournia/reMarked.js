@@ -49,7 +49,8 @@ reMarked = function(opts) {
 		},
 		tag_remap: {				// remap of variants or deprecated tags to internal classes
 			"i": "em",
-			"b": "strong"
+			"b": "strong",
+			"big": "strong"
 		}
 	};
 
